@@ -1,3 +1,3 @@
 # sudo.land
 
-Sudo Land Website
+Visit [SudoLand](https://sudo.land) website at [`https://sudo.land`](https://sudo.land).
